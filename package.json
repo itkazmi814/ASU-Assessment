@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "csv": "^2.0.0",
+    "csvtojson": "^1.1.9",
     "inquirer": "^5.0.0"
   }
 }
