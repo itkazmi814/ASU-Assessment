@@ -18,6 +18,6 @@
 * Code for part 3 has been much more heavily commented than other parts.
 * Please note the identified improvement to be done on line 117.
 * Test cases using a formal testing framework was not performed, as this is not something I have been introduced to in the past. 
-<space>* I plan to implement Jasmine.js as a testing framework shortly, but did not do so due to allotted time constraints.
-<space>* Current testing is done using the console to verify expected output and changes.
-<space>* Additionally, left console.logs used in testing/writing the code to help show testing methedology and thought process. In parts 1 and 2, these console.logs were removed prior to submission.
+** I plan to implement Jasmine.js as a testing framework shortly, but did not do so due to allotted time constraints.
+** Current testing is done using the console to verify expected output and changes.
+** Additionally, left console.logs used in testing/writing the code to help show testing methedology and thought process. In parts 1 and 2, these console.logs were removed prior to submission.
