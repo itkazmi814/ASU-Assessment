@@ -15,6 +15,7 @@
 
 # Part 3
 * Run "node codingAssessmentPart3 [file path to CSV file of orders here]" to begin the program.
+     * Example: "node codingAssessmentPart3 Exercise 3 - Format.csv"
 * Code for part 3 has been much more heavily commented than other parts.
 * Please note the identified improvement to be done on line 117.
 * Test cases using a formal testing framework was not performed, as this is not something I have been introduced to in the past. 
