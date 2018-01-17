@@ -21,3 +21,4 @@
      * I plan to implement Jasmine.js as a testing framework shortly, but did not do so due to allotted time constraints.
      * Current testing is done using the console to verify expected output and changes.
      * Additionally, left console.logs used in testing/writing the code to help show testing methedology and thought process. In parts 1 and 2, these console.logs were removed prior to submission.
+* Improvements and incompleted features pointed out will be worked on and then submitted with the note that they took longer than the expected time.
